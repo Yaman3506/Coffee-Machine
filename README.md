@@ -1,2 +1,2 @@
 # coffeeMaker
-A basic simulation of a coffee maker developed with OOP.
+A coffee machine software project developed with OOP.
